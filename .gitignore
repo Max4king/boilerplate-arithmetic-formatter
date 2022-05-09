@@ -1,0 +1,4 @@
+__pycache__/
+.vscode/
+test-logic.py
+.pytest_cache/
